@@ -3,7 +3,7 @@
 | branch        | status        | download      |
 | ------------- | --------------| --------------| 
 | master        | [![Build Status](https://travis-ci.org/Shynixn/DashButtonWatcher.svg?branch=master)](https://travis-ci.org/Shynixn/DashButtonWatcher) |[Download latest release (recommend)](https://github.com/Shynixn/DashButtonWatcher/releases)|
-| development      | [![Build Status](https://travis-ci.org/Shynixn/DashButtonWatcher.svg?branch=workflow)](https://travis-ci.org/Shynixn/DashButtonWatcher) | [Download snapshots](https://oss.sonatype.org/content/repositories/snapshots/com/github/shynixn/dashbuttonwatcher-api/) |
+| development      | [![Build Status](https://travis-ci.org/Shynixn/DashButtonWatcher.svg?branch=development)](https://travis-ci.org/Shynixn/DashButtonWatcher) | [Download snapshots](https://oss.sonatype.org/content/repositories/snapshots/com/github/shynixn/dashbuttonwatcher-api/) |
 
 JavaDocs: https://shynixn.github.io/DashButtonWatcher/apidocs/
 
