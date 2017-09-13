@@ -8,7 +8,8 @@
 JavaDocs: https://shynixn.github.io/DashButtonWatcher/apidocs/
 
 ## Description
-Spigot plugin to use blocks as pets in minecraft.
+
+Java Project to listen for dash button clicks in your local network.
 
 ### Maven
 
