@@ -60,6 +60,11 @@ public class DashButtonListener implements Runnable, AutoCloseable {
         }
     }
 
+    /**
+     * Returns the ip address
+     *
+     * @return ip
+     */
     public String getIpAddress() {
         return this.ip;
     }
