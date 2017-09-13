@@ -117,4 +117,11 @@
             <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
+
+
+    <scm>
+        <connection>scm:git:git://github.com/Shynixn/DashButtonWatcher.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Shynixn/DashButtonWatcher.git</developerConnection>
+        <url>http://github.com/Shynixn/DashButtonWatcher.git/tree/master</url>
+    </scm>
 </project>
