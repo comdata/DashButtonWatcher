@@ -1,7 +1,9 @@
 language: java
-script:
-    - mvn compile test
+install:
+   - cd /home/travis/build/Shynixn/DashButtonWatcher
+   - mvn compile test
 jdk:
   - oraclejdk8
+#jdk 8
 
 
